@@ -1,0 +1,20 @@
+{
+    "name": "BitRoller",
+    "version": "0.0.1",
+    "description": "Microsoft MakeCode package for 4tronix BitRoller Robot",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "fireled": "github:4tronix/FireLedsBase",
+        "firescreen": "github:4tronix/FireScreen#0.0.5"
+    },
+    "files": [
+        "README.md",
+        "bitroller.ts"
+     ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "yotta": {},
+    "public": true
+}
